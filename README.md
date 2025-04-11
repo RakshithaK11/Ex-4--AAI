@@ -47,7 +47,10 @@ for t in range(len(obs_seq)):
 ~~~
 
 ## Output:
-![image](https://github.com/user-attachments/assets/89b6a0e9-6862-4330-8bcf-a22d30a28ecb)
+![image](https://github.com/user-attachments/assets/885463a8-d99a-44ab-802d-3379c68c074a)
+![image](https://github.com/user-attachments/assets/4cad9039-1190-44f3-baf6-419ef49bce5b)
+
+
 
 ## Result:
 Thus Hidden Markov Model is implemented using python.
